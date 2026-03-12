@@ -9,9 +9,11 @@
 # Step 1: Ignore everything at the root
 /*
 
-# Step 2: Allow .gitignore, README, LICENSE, assets, marketplace, and skills
+# Step 2: Allow .gitignore, README, README_CN, OpenClaw docs, LICENSE, assets, marketplace, and skills
 !.gitignore
 !/README.md
+!/README_CN.md
+!/OPENCLAW_INSTALL_CN.md
 !/LICENSE
 !/assets/
 !/.claude-plugin/

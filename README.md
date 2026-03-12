@@ -26,6 +26,9 @@ This is an **OpenClaw skills adaptation** of the [CLI-Anything](https://github.c
 
 ## 🚀 OpenClaw Quick Start
 
+中文安装文档：[`OPENCLAW_INSTALL_CN.md`](OPENCLAW_INSTALL_CN.md)
+
+
 ### Installation
 
 Copy or symlink the `skills/` directory into your OpenClaw skills location:

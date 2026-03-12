@@ -34,6 +34,9 @@
 
 ## 🚀 OpenClaw 快速开始
 
+专门的安装文档见：[`OPENCLAW_INSTALL_CN.md`](OPENCLAW_INSTALL_CN.md)
+
+
 ### 安装方式
 
 把本仓库里的 `skills/` 安装到 OpenClaw 的技能目录即可。
